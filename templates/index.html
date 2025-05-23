@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Detección de Somnolencia</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+  <div class="min-h-screen flex flex-col items-center justify-center p-2">
+    
+    <header class="mb-8 text-center">
+      <h1 class="text-4xl font-bold text-teal-400 mb-2">Sistema de Detección de Somnolencia</h1>
+    </header>
+
+    <div class="bg-gray-800 rounded-lg shadow-lg p-6">
+      <img src="{{ url_for('video_feed') }}" width="720" height="540" class="rounded-md border-4 border-teal-500" alt="Video en tiempo real" />
+    </div>
+
+    <footer class="mt-8 text-gray-500 text-sm">
+      Proyecto de visión computacional por Lizeth Barrios y Daniel Rios
+    </footer>
+
+  </div>
+</body>
+</html>
