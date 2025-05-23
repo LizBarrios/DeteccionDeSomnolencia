@@ -100,9 +100,11 @@ Luego abre tu navegador y visita:
 * Sistema operativo con acceso a hardware de audio (para la alarma)
 
 ---
+## 📚 Referencias
 
-## 👩‍💻 Autores
-
-* **Lizeth Barrios**
-* **Daniel Rios**
-
+* [yawn\_eye\_dataset\_new. (2020, July 7). Kaggle Dataset](https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new)
+* [Drowsiness Detection Dataset. (2023, July 20). Kaggle Dataset](https://www.kaggle.com/datasets/hazemfahmy/openned-closed-eyes)
+* [Yousef-Sharafi. *Driver Drowsiness Detection Based on CNN Architecture Optimization Using Genetic Algorithm*. GitHub Repository](https://github.com/Yousef-Sharafi/Driver-Drowsiness-Detection-Based-on-CNN-Architecture-Optimization-Using-Genetic-Algorithm)
+* [BrunoBustos96. *Detección de Somnolencia con CNN*. GitHub Repository](https://github.com/BrunoBustos96/DeteccionSomnolenciaCNN)
+* [DJSWAG98. (2022, diciembre 13). *Detección de Fatiga Visual mediante procesamiento digital de imágenes - Python - OpenCV*. Video en YouTube](https://www.youtube.com/watch?v=KS1bbtbN96w)
+---
